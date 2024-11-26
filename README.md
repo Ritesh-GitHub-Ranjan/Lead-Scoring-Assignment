@@ -44,7 +44,6 @@ X Education generates leads through various sources, but only a small percentage
   - `matplotlib` and `seaborn`: Visualizations for EDA.
   - `sklearn`: Machine learning model building and evaluation.
   - `statsmodels`: Statistical analysis and logistic regression.
-  - `xgboost`: Advanced classification model.
 
 ---
 

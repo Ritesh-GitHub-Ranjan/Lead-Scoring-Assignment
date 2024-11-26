@@ -75,5 +75,3 @@ X Education generates leads through various sources, but only a small percentage
 Special thanks to X Education for providing the dataset and framing the business problem.
 
 --- 
-
-Let me know if you want adjustments or additional sections!
